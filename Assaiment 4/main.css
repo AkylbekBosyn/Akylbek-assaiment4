@@ -1,0 +1,63 @@
+.head{
+    display: flex;
+}
+.kaz{
+    display: flex;
+    word-spacing: 50 px;
+}
+
+
+.link:hover{
+    color: crimson;
+}
+.lii:hover{
+    color:crimson
+
+}
+.lai:hover{
+    color:crimson
+}
+.lah:hover{
+    color:crimson
+}
+.last:hover{
+    color:crimson
+}
+.lass:hover{
+    color:crimson
+}
+.lasf:hover{ 
+    color:crimson      
+}
+.imgg{
+    margin-right: 1000px;
+    padding-bottom: 1000px;
+
+}
+
+body{
+    background-color: rgb(206, 208, 214);
+}
+.Akyl{
+    width: 400px;
+    height: 200px;
+    margin: auto;
+}
+.AK-47{
+    color: rgb(109, 11, 11);
+}
+.Mk{
+    color: black;
+}
+body{
+    background:("https://imagesratel.kz/cdn/inner/i/2017/August/30/b457c7cbe0b4a7073f03c724f00dd23ead0a31dd.jpg") center no-repeat;
+    background-size: cover;
+}
+audio {
+    height: 54px;  
+    width: 300px; 
+}
+
+audio:not([controls]) {
+    display: none !important;
+}
